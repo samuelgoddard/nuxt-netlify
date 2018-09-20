@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/repo # Change to your repo
+  repo: samuelgoddard/nuxt-netlify # Change to your repo
   # url: http://localhost:3000
 
 media_folder: "static/uploads"
